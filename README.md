@@ -1,0 +1,1 @@
+This is Mihaela's firt git project!
